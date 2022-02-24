@@ -3,6 +3,7 @@
 ![](snaps/power.jpg)
 ![](snaps/power1.jpg)
 ![](snaps/power2.jpg)
+![](snaps/power3.jpg)
 
 # Tableau
 
