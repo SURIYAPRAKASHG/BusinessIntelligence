@@ -1,9 +1,9 @@
 # Power-BI
 
 ![](snaps/power.jpg)
-![](snaps/power1.jpg)
-![](snaps/power2.jpg)
-![](snaps/power3.jpg)
+![](snaps/power1.PNG)
+![](snaps/power2.PNG)
+![](snaps/power3.PNG)
 
 # Tableau
 
